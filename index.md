@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Welcome to my blog.
 
-Maybe say a some things about yourself.
+I'm a Mac SysAdmin for a private K-12 school. 
 
-Or maybe what you plan to blog about.
+Here you will find my thoughts, ramblings, and things I find cool enough to write about.
