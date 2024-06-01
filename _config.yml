@@ -40,3 +40,9 @@ defaults:
       type: post
     values:
       tags: Other
+
+utterances:
+  repo: "dokihara/dokihara.github.io"
+  issue-term: "pathname"
+  label: "utteranc.es"
+  theme: "github-light"
