@@ -9,12 +9,12 @@ Then, I stumbled across something called retail Demo mode. Instructions on how t
 
 However, once you turn on Demo mode, a lot of settings are grayed out. So we need to first set those up. 
 
-Step 1: Set screensaver timer to 2 minutes in screensaver settings<br />
-Step 2: Set sleep to never<br />
-Step 3: Turn on Conference mode<br />
-Step 4: Apply these changes. <br />
+Step 1: Set screensaver timer to 2 minutes in screensaver settings.<br />
+Step 2: Set sleep to never.<br />
+Step 3: Turn on Conference mode.<br />
+Step 4: Apply these changes.<br />
 
-Here's the secret sauce. You can set the screensaver to a custom file if you mimic Apple's JSON structure. 
+Here's the <b>secret sauce</b>. You can set the screensaver to a custom file if you mimic Apple's JSON structure. 
 
 ```
 [
@@ -41,7 +41,7 @@ Step 2: Click General and highlight About.<br />
 Step 3: Press the Play/Pause button 4 times.<br />
 Step 4: Click the Demo Mode panel and select Apple Store or Channel to set the retail demo mode type.<br />
 
-![]({{ site.url }}/assets/imgs/retail-mode.jpg)<br />
+![]({{ site.url }}/assets/imgs/retail-mode.jpg)<br /><br />
 Step 5: On the circled field, enter the URL of your `entries.json` file. <br />
 Step 6: Click Apply Changes to enable Demo mode.<br />
 Step 7: Reboot your AppleTV. <br />
