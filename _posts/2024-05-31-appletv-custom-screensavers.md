@@ -5,7 +5,7 @@ title: Custom AppleTV Screensavers!
 ### Custom AppleTV Screensavers!
 One day, one of my coworkers asked if it would be possible to change the screensaver that is on the AppleTVs across our campus. I thought that would be a great idea, and started searching the web to see what options were available. I came across a few app-based solutions but they seemed limited and I would have to force the AppleTV into single-app mode for it to work all the time. 
 
-Then, I stumbled across something called retail Demo mode. Instructions on how to enter retail Demo mode found <a href="https://www.idownloadblog.com/2016/01/18/apple-tv-store-demo-mode/">here</a>. 
+Then, I stumbled across something called retail Demo mode. Instructions on how to enter retail Demo mode found <a href="https://www.idownloadblog.com/2016/01/18/apple-tv-store-demo-mode/" target="_blank">here</a>. 
 
 However, once you turn on Demo mode, a lot of settings are grayed out. So we need to first set those up. 
 
@@ -41,7 +41,7 @@ Step 2: Click General and highlight About.<br />
 Step 3: Press the Play/Pause button 4 times.<br />
 Step 4: Click the Demo Mode panel and select Apple Store or Channel to set the retail demo mode type.<br />
 
-![]({{ site.url }}/assets/imgs/retail-mode.jpg)
+![]({{ site.url }}/assets/imgs/retail-mode.jpg)<br />
 Step 5: On the circled field, enter the URL of your `entries.json` file. <br />
 Step 6: Click Apply Changes to enable Demo mode.<br />
 Step 7: Reboot your AppleTV. <br />
