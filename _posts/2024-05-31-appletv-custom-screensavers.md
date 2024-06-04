@@ -3,6 +3,8 @@ layout: post
 title: Custom AppleTV Screensavers!
 ---
 ### Custom AppleTV Screensavers!
+<i>Disclaimer: This methodologies used in this tutorial are not "officially" supported by Apple. Use at your own risk. Also, many menu items get disabled such as software update and restart. </i>
+
 One day, one of my coworkers asked if it would be possible to change the screensaver that is on the AppleTVs across our campus. I thought that would be a great idea, and started searching the web to see what options were available. I came across a few app-based solutions but they seemed limited and I would have to force the AppleTV into single-app mode for it to work all the time. 
 
 Then, I stumbled across something called retail Demo mode. Instructions on how to enter retail Demo mode found <a href="https://www.idownloadblog.com/2016/01/18/apple-tv-store-demo-mode/" target="_blank">here</a>. 
@@ -10,7 +12,7 @@ Then, I stumbled across something called retail Demo mode. Instructions on how t
 However, once you turn on Demo mode, a lot of settings are grayed out. So we need to first set those up. 
 
 Step 1: Set screensaver timer to 2 minutes in screensaver settings.<br />
-Step 2: Set sleep to never.<br />
+Step 2: Set sleep to never if you want it always on.<br />
 Step 3: Turn on Conference mode.<br />
 Step 4: Apply these changes.<br />
 
