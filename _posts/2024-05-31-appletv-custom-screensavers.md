@@ -48,7 +48,10 @@ Step 5: On the circled field, enter the URL of your `entries.json` file. <br />
 Step 6: Click Apply Changes to enable Demo mode.<br />
 Step 7: Reboot your AppleTV. <br />
 
-Now, after 2 minutes, your AppleTV should start showing your custom video as it's screensaver! Did this work for you? Let us know in the comments. 
+Now, after 2 minutes, your AppleTV should start showing your custom video as it's screensaver! 
 
+Alternatively, if you do NOT want to enable Demo mode, you can also create a DNS entry on your network to authoritatively answer for `http://a1.phobos.apple.com`. The default URL Apple uses for it's screensaver is located at <a href="http://a1.phobos.apple.com/us/r1000/000/Features/atv/AutumnResources/videos/entries.json">http://a1.phobos.apple.com/us/r1000/000/Features/atv/AutumnResources/videos/entries.json</a>. You can effectively hijack this URL on your network to provide your own custom `entries.json` with your own screensaver movie files. 
+
+Thanks for reading -- did these methods work for you? Let us know in the comments! 
 
 {% include utterances.html %}
